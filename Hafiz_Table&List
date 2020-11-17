@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h2>Attendance Week 6</h2>
+
+<p>.</p>
+
+<table style="width:100%">
+  <tr>
+    <th>No</th>
+    <th>Item</th> 
+    <th>Info</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><ul>
+    <li>Books</li>
+    <ol type="1">
+  <li>Malaysia</li>
+  <li>Indonesia</li>
+  <li>Singapore</li>
+</ol>  
+    <li>Maps</li>
+  </ul>      </td>
+      <td>Label 2</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><ol type="i">
+  <li>Hello</li>
+  <li>Hai</li>
+  <li>Test</li>
+</ol>  </td>
+    <td>Label 10</td>
+  </tr>
+
+</table>
+
+</body>
+</html>
